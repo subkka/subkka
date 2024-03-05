@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Images
 
-![This is an alt text.](/dog.jpg")
+![This is an alt text.](/dog.jpg)
 
 ## Links
 
