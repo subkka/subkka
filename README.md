@@ -1,23 +1,11 @@
 ### Hi there 👋
 
 
-**subkka/subkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=박수빈입니다.&section=header&reversal=false&textBg=false)
 
-Here are some ideas to get you started:
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=beeniaa)](https://solved.ac/beeniaa)
 
-## Images
-
-![This is an alt text.](/dog.jpg)
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subkka&title_color=FFB2F5&show_icons=true&theme=radical)
