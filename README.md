@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![This is an alt text.](/dog.jpg")
 
 ## Links
 
